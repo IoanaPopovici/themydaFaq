@@ -1,0 +1,89 @@
+.container-title-images{
+    position: relative;
+    z-index: 1;
+    top: -1549px;
+    left: -96.34px;
+    width: 1536.34px;
+    height: 2031px;
+}
+.support-image{
+    position: absolute;
+    width: 1022px;
+    height: 244px;
+    top: 1694px;
+    left: 305.84px;
+    display: flex;
+    align-items: center;
+}
+.help-image{
+    position: absolute;
+    width: Hug (624px)px;
+    height: Hug (133px)px;
+    top: 1826px;
+    left: 496.34px;
+}
+.help-text{
+    font-family: 'Montserrat-ExtraBold', sans-serif;
+    font-size: 64px;
+    text-align: center;
+    line-height: 72px;
+}
+.search-bar{
+    position: absolute;
+    width: 825.52px;
+    height: 63px;
+    border-radius: 19px;
+    top: 1937px;
+    left: 403.34px;
+    display: flex;
+    justify-content: center;
+    background: #303030;
+}
+.search-input {
+    flex: 1;
+    border: none;
+    outline: none;
+    padding: 10px;
+    border-radius: 20px;
+    background-color: transparent;
+    color: #AEAEAE;
+    margin-left: 49px;
+    font-family: 'Montserrat-Regular', sans-serif;
+    font-size: 18px;
+    line-height: 21.94px;
+}
+
+.search-input::placeholder {
+    color: #AEAEAE;
+    opacity: 1;
+}
+.object-img{
+    position: absolute;
+    top: 1769px;
+    width: 317.55px;
+    height: 262px;
+    display: flex;
+    justify-content: flex-end;
+}
+/*purple*/
+.object-purple{
+    position: absolute;
+    top: 1769.29px;
+    left: 184.73px;
+    width: 132.57px;
+    height: 143.67px;
+}
+.object-grey-purple{
+    position: absolute;
+    width: 135.44px;
+    height: 138.61px;
+    top: 1630.95px;
+    left: 1262.84px;
+}
+.object-blue{
+    position: absolute;
+    width: 218px;
+    height: 220.32px;
+    top: 1656.84px;
+    left: 1318.34px;
+}

@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ad5f1ec7.css",
+    "main.js": "/static/js/main.8f036023.js",
+    "static/media/Montserrat Regular 400.ttf": "/static/media/Montserrat Regular 400.2a2d37bf7680d86811db.ttf",
+    "static/media/Montserrat ExtraBold 800.ttf": "/static/media/Montserrat ExtraBold 800.0eac3d0f226f458230a2.ttf",
+    "static/media/Montserrat Bold 700.ttf": "/static/media/Montserrat Bold 700.0915f0a8c3367a6d05ec.ttf",
+    "static/media/Montserrat SemiBold 600.ttf": "/static/media/Montserrat SemiBold 600.2f7a846126c7d5ee9163.ttf",
+    "static/media/Montserrat Medium 500.ttf": "/static/media/Montserrat Medium 500.647f0e61af3a76a138c3.ttf",
+    "static/media/Gilroy-Light.ttf": "/static/media/Gilroy-Light.1822a291dd62fe2cca72.ttf",
+    "static/media/Gilroy-Medium.ttf": "/static/media/Gilroy-Medium.1b4da6582f83f45ea039.ttf",
+    "static/media/Gilroy-SemiBold.ttf": "/static/media/Gilroy-SemiBold.07b9100a72fe7d46d20a.ttf",
+    "static/media/Gilroy-Bold.ttf": "/static/media/Gilroy-Bold.ca49f7658c4eaac78b6d.ttf",
+    "static/media/SUPPORT.png": "/static/media/SUPPORT.4569ba500d64537d53c9.png",
+    "static/media/RectanglePurple.png": "/static/media/RectanglePurple.f55ada4e707211ead428.png",
+    "static/media/illustration.png": "/static/media/illustration.1605de77976728f1a4d9.png",
+    "static/media/Object.png": "/static/media/Object.cc4d7fe8a2b8136ac196.png",
+    "static/media/ObjectGreyPurple.png": "/static/media/ObjectGreyPurple.2c049280e2aa5b4fc2de.png",
+    "static/media/Object1purple.png": "/static/media/Object1purple.38e0190573c76661d89c.png",
+    "static/media/ObjectBlue.png": "/static/media/ObjectBlue.b2e0c844059d9d71d331.png",
+    "static/media/people.png": "/static/media/people.cc25465d463a967d4ff7.png",
+    "static/media/RectangleRed.png": "/static/media/RectangleRed.e46048e3bd17a05b2a4f.png",
+    "static/media/news.png": "/static/media/news.77370da0ee612605152f.png",
+    "static/media/equal.png": "/static/media/equal.be7c9f657c9be7e6923b.png",
+    "index.html": "/index.html",
+    "main.ad5f1ec7.css.map": "/static/css/main.ad5f1ec7.css.map",
+    "main.8f036023.js.map": "/static/js/main.8f036023.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad5f1ec7.css",
+    "static/js/main.8f036023.js"
+  ]
+}

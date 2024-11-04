@@ -1,0 +1,99 @@
+
+.hero-container{
+    position: absolute;
+    margin-top: 79px;
+    width: 1121px;
+    height: 302px;
+    top: 561px;
+    left: 151px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.card-container{
+    position: relative;
+    display: flex;
+    z-index: 2;
+    width: 312px;
+    height: 289px;
+    border-radius: 19px;
+}
+.container-dev{
+    width: 302px;
+}
+.container-ask{
+    width: 302px;
+}
+.card-img{
+    position: absolute;
+    width: 147px;
+    height: 153px;
+    top: 0.94px;
+    left: 98px;
+    z-index: 2;
+}
+.img-dev{
+    width: 151px;
+    height: 158.41px;
+    top: 0.36px;
+    left: 98px;
+
+}
+.img-ask{
+    width: 172.96px;
+    height: 156px;
+    top: 0.36px;
+    left: 88px;
+}
+.card{
+    position: absolute;
+    width: 286px;
+    height: 224px;
+    top: 42px;
+    left: 26px;
+    border-radius: 19px;
+    border: 1px solid #651FFF;
+    background-color: #180D48;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+}
+.card-dev{
+    width: 286px;
+    height: 224px;
+    top: 55px;
+    left: 30px;
+    border: 1px solid #00E5FF;
+}
+.card-ask{
+    width: 286px;
+    height: 224px;
+    top: 55px;
+    left: 20px;
+    border: 1px solid #FF4081;
+}
+
+.rectangleBox3{
+    width: 286px;
+    height: 224px;
+    top: 50.89px;
+    left: 20px;
+}
+
+.card-title{
+    color: #fff;
+    font-family: 'Montserrat-SemiBold', sans-serif;
+    text-align: center;
+    font-size: 24px;
+}
+.card-text{
+    width: 258px;
+    height: 42px;
+    margin: 12px auto 22px auto;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    font-family: 'Montserrat-Regular', sans-serif;
+    color: #fff;
+}

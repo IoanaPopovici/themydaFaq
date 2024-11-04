@@ -1,0 +1,93 @@
+.container-topicNav{
+    position: absolute;
+    width: 1217px;
+    height: 1726px;
+    top: 943px;
+    left: 110px;
+    margin-top: 80px;
+    display: flex;
+    justify-content: space-between;
+}
+.second-box > *:nth-child(2) { /* give margin-top only for the second component named Questions c*/
+    margin-top: 120px;
+}
+.related-topic-box {
+    margin-top: 80px;
+}
+.topic-navigation-container{
+    width: 357px;
+    height: 984px;
+    top: 955px;
+    left: 112px;
+}
+.topic-navigation-box{
+    height: 452px;
+}
+.topic-navigation-title{
+    font-family: 'Montserrat-ExtraBold', sans-serif;
+    font-size: 24px;
+    line-height: 29.26px;
+    margin-bottom: 40px;
+}
+.topic-navigation-text{
+    height: 383px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    font-size: 18px;
+    font-family: 'Montserrat-Regular', sans-serif;
+}
+
+.submit-request-container{
+    width: 389px;
+    height: 482px;
+    top: 1983px;
+    left: 110px;
+    margin-top: 44px;
+}
+.illustration-img{
+    position: relative;
+    z-index: 1;
+    width: 389px;
+    height: 286px;
+}
+.submit-request-box{
+    position: absolute;
+    z-index: 0;
+    width: 357px;
+    height: 460px;
+    top: 22px;
+    left: 2px;
+    border-radius: 29px;
+    background: linear-gradient(180deg, #311B92 38.9%, #84FFFF 157.94%);
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+    justify-content: end;
+}
+.submit-title{
+    color: #fff;
+    font-size: 24px;
+    font-family: 'Montserrat-SemiBold', sans-serif;
+    align-items: center;
+    line-height: 29.26px;
+    margin: 0 auto 23px auto;
+}
+.submit-text{
+    width: 320px;
+    font-family: 'Montserrat-SemiBold';
+    font-size: 18px;
+    line-height: 21.94px;
+    text-align: center;
+    color: #fff;
+    margin: 0 auto 23px auto;
+}
+.submit-request-btn{
+    width: 300px;
+    height: 49px;
+    border-radius: 39px;
+    background: #84FFFF;
+    margin: 0 auto 22px auto;
+    color: #006064;
+    font-family: 'Montserrat-SemiBold', sans-serif;
+}

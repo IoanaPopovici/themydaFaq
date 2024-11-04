@@ -1,0 +1,88 @@
+.container-questions{
+    max-width: 802px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 803px;
+}
+
+.common-questions{
+    width: 593px;
+    height: 44px;
+    margin-bottom: 40px;
+}
+.common-questions p{
+    font-size: 36px;
+    font-family: 'Montserrat-ExtraBold', sans-serif;
+    color: #000;
+}
+
+/* right box */
+
+.right-box{
+    max-width: 699px;
+}
+.container-accordion{
+    position: relative;
+    max-width: 802px;
+    height: 195px;
+    background: #4F55F1;
+    border-radius: 10px;
+}
+.accordion{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    height: 195px;
+    width: 802px;
+    background: #651FFF;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 10px;
+}
+.chevreon-img{
+    position: absolute;
+    width: 30.33px;
+    height: 11.81px;
+    top: 49px;
+    left: 753.48px;
+    transform: rotate(0deg);
+}
+.rotate{
+    transform: rotate(180deg);
+}
+.accordion-title-container{
+    display: flex;
+    width: 802px;
+    height: 86px;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.accordion-title{
+    max-width: 523px;
+    color: #fff;
+    font-family: 'Montserrat-SemiBold',sans-serif;
+    font-size: 24px;
+    margin-right: 63px;
+}
+.accordion-description{
+    font-family: 'Montserrat-Regular', sans-serif;
+    font-size: 24px;
+    width: 691.47px;
+    color: #fff;
+    margin-bottom: 15.5px;
+    margin-top: 22px;
+    height: 71px;
+    margin-left: 35px;
+}
+.closed-accordion{
+    width: 802px;
+    height: 90.5px;
+    background: #42424280;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 10px;
+    margin-top: 40px;
+}
